@@ -1211,7 +1211,7 @@
         <fabricator.wso2v1.version>2.1.4.wso2v1</fabricator.wso2v1.version>
         <generex.wso2v1.version>1.0.0.wso2v1</generex.wso2v1.version>
 
-        <mysql.connector.version>5.1.38</mysql.connector.version>
+        <mysql.connector.version>8.0.28</mysql.connector.version>
         <ojdbc6.version>12.1.0.1-atlassian-hosted</ojdbc6.version>
         <postgresql.version>42.1.4</postgresql.version>
         <h2.connector.version>2.1.210</h2.connector.version>
